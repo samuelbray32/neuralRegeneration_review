@@ -6,15 +6,16 @@ Code and processed single-cell data for generating the figures used in the upcom
 Example figures from each file:
 **CoExpression_variableSets**
 
-![alt text](../PLOTS/heatmap+barplot.svg)
+![alt text](PLOTS/heatmap+barplot.svg)
+
 
 **umap_subset**
 
-![alt text](../PLOTS/expression_UMAP.svg)
+![alt text](PLOTS/expression_UMAP.svg)
 
 **maturationSpecificity**
 
-![alt text](../PLOTS/neoblastEnrichment_TFs_log.svg)
+![alt text](PLOTS/neoblastEnrichment_TFs_log.svg)
 
 
 
