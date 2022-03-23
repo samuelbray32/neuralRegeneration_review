@@ -1,7 +1,7 @@
 Neural Regeneration Review
 ========
 
-Code and processed single-cell data for generating the figures used in the upcoming review paper Cellular diversity and plasticity of planarian nervous system (submitted).
+Code and processed single-cell data for generating the figures used in the upcoming review paper "Cellular diversity and plasticity of planarian nervous system" (_submitted_).
 
 **To run:** Download this repository to your local computer. Then follow this link (https://drive.google.com/file/d/1Mae6UVD0_xDjDKGXrW0cLFv9EPxZCIyy/view?usp=sharing) and download the files to the "data" folder in this repository.
 
